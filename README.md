@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am Parth awasthi, An enthusiastic computer engineering student and A MERN stack developer 💻. 
-who is actively seeking opportunities with a desire to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
+I am Parth awasthi, A computer engineering student and A MERN stack developer 💻. 
+who is actively seeking opportunities to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
 
 
 ## 🌐 Socials:
