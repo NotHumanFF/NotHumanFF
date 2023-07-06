@@ -4,7 +4,7 @@ who is actively seeking opportunities to work with open source project in order 
 
 
 ## 🌐 Socials:
-💻 My Portfolio: [NotHuman](https://nothumanff.github.io/me/)
+💻 My Portfolio: [NotHuman](https://parthawasthi.vercel.app)
 
 
 🔗 My Linkdin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-awasthi747/) 
