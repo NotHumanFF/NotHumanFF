@@ -24,8 +24,6 @@ who is actively seeking opportunities to work with open source project in order 
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Nothumanff&icon=0&color=0)
