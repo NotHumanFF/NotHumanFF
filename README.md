@@ -34,7 +34,7 @@ who is actively seeking opportunities to work with open source project in order 
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![NextJs](https://img.shields.io/badge/Nextjs?style=flat-square&logo=NextJs)
+![NextJs](https://img.shields.io/badge/-Nextjs?style=flat-square&logo=NextJs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Nodejs)
 ![ExpressJs](https://img.shields.io/badge/-Expressjs-darkblue?style=flat-square&logo=expressjs)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
