@@ -1,11 +1,7 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Nishit Welcome to my Profile! animated typed out">
-
-I am Nishit, Currently I am Learning about Full Stack Web-development.I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Parth, Welcome to my Profile! animated typed out">
 
 
-
-# 💫 About Me:
-I am NotHuman, A computer engineering student and A MERN stack developer 💻. 
+A computer engineering student and A MERN stack developer 💻. 
 who is actively seeking opportunities to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
 
 
