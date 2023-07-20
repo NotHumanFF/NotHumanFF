@@ -61,8 +61,8 @@ who is actively seeking opportunities to work with open source project in order 
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishitbaria&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishitbaria&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NotHumanFF&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotHumanFF&theme=tokyonight"/>
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
