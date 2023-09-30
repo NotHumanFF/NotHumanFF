@@ -16,7 +16,6 @@ who is actively seeking opportunities to work with open source project in order 
 
 
 
-
 ## ⚡ Technologies
 
 ### Language :
