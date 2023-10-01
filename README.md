@@ -49,7 +49,7 @@ who is actively seeking opportunities to work with open source project in order 
 
 
 
-
+[![An image of @parth_awasthi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parth_awasthi)](https://holopin.io/@parth_awasthi)
 
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
