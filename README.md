@@ -1,8 +1,7 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Parth+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Parth, Welcome to my Profile! animated typed out">
 
 
-A computer engineering student and A MERN stack developer 💻. 
-who is actively seeking opportunities to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
+A Computer science engineering student working in MERN stack 💻, actively seeking opportunities to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
 
 
 ## Socials 🌐
