@@ -51,13 +51,8 @@ who is actively seeking opportunities to work with open source project in order 
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NotHumanFF&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotHumanFF&theme=tokyonight"/>
-	<details>
-  <summary><b>:zap:TOP LANGUAGE </b></summary>
-	
 
-	
-	
-</details>
+<b>:zap:TOP LANGUAGE </b>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nothumanff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
