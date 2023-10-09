@@ -54,7 +54,7 @@ who is actively seeking opportunities to work with open source project in order 
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitbaria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 	
 	
 </details>
