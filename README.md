@@ -1,8 +1,12 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Parth+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Parth, Welcome to my Profile! animated typed out">
 
 
-A Computer science engineering student working in MERN stack 💻, actively seeking opportunities to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
+👋 A Computer science engineering student working in MERN stack 💻, I revel in overcoming intricate challenges and devising inventive solutions in the realm of web development.
 
+🔧 What sets me apart:
+
+- MERN Stack Maestro: Proficient in MongoDB, Express, React, and Node.js, I'm well-versed in building dynamic and scalable web applications.
+- Open Source Advocate: I'm on the lookout for exciting open-source projects to contribute to. This not only allows me to give back to the community but also helps me refine my skills through practical, hands-on experience.
 
 🛠️ Let's Collaborate:
 If you have a thrilling open-source project in need of an extra set of hands, I'd love to dive right in! Feel free to reach out and let's explore the possibilities together.
