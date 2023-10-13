@@ -4,6 +4,9 @@
 A Computer science engineering student working in MERN stack 💻, actively seeking opportunities to work with open source project in order to strengthen my skills. If you have any, you can contact me and we can have a hands on it.
 
 
+🛠️ Let's Collaborate:
+If you have a thrilling open-source project in need of an extra set of hands, I'd love to dive right in! Feel free to reach out and let's explore the possibilities together.
+
 ## Socials 🌐
 💻 My Portfolio: [NotHuman](https://parthawasthi.vercel.app)
 
