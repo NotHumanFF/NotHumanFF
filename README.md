@@ -27,7 +27,14 @@ If you have a thrilling open-source project in need of an extra set of hands, I'
 
 ### Language :
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,html,css,go" />
+  </a>
+</p>
 
+
+<!---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -37,7 +44,7 @@ If you have a thrilling open-source project in need of an extra set of hands, I'
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 
-
+--->
 
 ### Libraries & Framework :
 
