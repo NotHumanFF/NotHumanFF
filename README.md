@@ -29,7 +29,7 @@ If you have a thrilling open-source project in need of an extra set of hands, I'
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,html,css,go" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,c,go" />
   </a>
 </p>
 
