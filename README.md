@@ -2,7 +2,7 @@
 
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-👋 A Computer science engineering student working in MERN stack 💻, I revel in overcoming intricate challenges and devising inventive solutions in the realm of web development.
+👋 A Computer science engineering student working in NextJs & MERN stack 💻, I revel in overcoming intricate challenges and devising inventive solutions in the realm of web development.
 
 🔧 What sets me apart:
 
